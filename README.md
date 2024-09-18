@@ -1,7 +1,7 @@
 
 <div align="center">
-  <h1>Привет! 👋</h1>
-  <p>Меня зовут <strong>Аммар</strong>, начинающий Frontend разработчик</p>
+  <h1>Hi! 👋</h1>
+  <p>My name is <strong>Ammar</strong>,  I'm an beginner Frontend developer</p>
 </div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
