@@ -15,7 +15,7 @@ I am a graduate of **"ADA courses ”** where I studied **Frontend development**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-## 🔧 Skills and techniques:
+## 🔧 Skills:
 
 - Layout responsive websites using **HTML** and **CSS**
 - Creating interactive elements using **JavaScript**
