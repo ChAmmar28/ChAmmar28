@@ -1,9 +1,8 @@
-## Привет! 👋
+<h1>Привет! 👋</h1>
+<p>Я <strong>Аммар</strong>, начинающий Frontend разработчик</p>
 
-Я **Аммар**, начинающий разработчик Frontend
-
-## 🔧 Мои навыки
-<html><div
+<h2>🔧 Мои навыки</h2>
+<div
   id="header"
   style="
     display: flex;
@@ -56,5 +55,5 @@
   >
     REACT
   </p>
-</div></html>
+</div>
 
