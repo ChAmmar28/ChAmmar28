@@ -1,4 +1,3 @@
-
 <div align="start">
   <h1>Hi! 👋</h1>
   <p>My name is <strong>Ammar</strong>,  I'm an beginner Frontend developer</p>
