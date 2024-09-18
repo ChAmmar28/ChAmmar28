@@ -1,59 +1,25 @@
 <h1>Привет! 👋</h1>
 <p>Я <strong>Аммар</strong>, начинающий Frontend разработчик</p>
 
-<h2>🔧 Мои навыки</h2>
-<div
-  id="header"
-  style="
-    display: flex;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 600;
-    font-size: 14;
-  "
->
-  <p
-    style="
-      padding: 6px;
-      background-color: red;
-      color: white;
-      margin-right: 4px;
-      border-radius: 4px;
-    "
-  >
-    HTML
-  </p>
-  <p
-    style="
-      padding: 6px;
-      background-color: #ff009d;
-      color: white;
-      margin-right: 4px;
-      border-radius: 4px;
-    "
-  >
-    SCSS
-  </p>
-  <p
-    style="
-      padding: 6px;
-      background-color: yellow;
-      color: black;
-      margin-right: 4px;
-      border-radius: 4px;
-    "
-  >
-    JAVASCRIPT
-  </p>
-  <p
-    style="
-      padding: 6px;
-      background-color: #232730;
-      color: #57c4db;
-      margin-right: 4px;
-      border-radius: 4px;
-    "
-  >
-    REACT
-  </p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 
