@@ -26,7 +26,7 @@ I am a graduate of **"ADA courses ”** where I studied **Frontend development**
 
 Continuing to deepen my knowledge in **Frontend development** and learning more advanced JavaScript concepts.
 
-## 📫 Contact me:
+## 📫 Contact:
 
 - Email: [niyazbekovammar@gmail.com](mailto:niyazbekovammar@gmail.com)
 
